@@ -1,2 +1,2 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
-torch==2.0.1+cu118
+torch==2.2.0
