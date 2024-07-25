@@ -2,4 +2,4 @@ safetensors==0.3.1
 sentencepiece>=0.1.97
 ninja==1.11.1
 --find-links https://download.pytorch.org/whl/torch_stable.html
-torch==2.0.1+cu118
+torch==2.2.0
